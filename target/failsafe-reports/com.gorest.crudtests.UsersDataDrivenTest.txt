@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.gorest.crudtests.UsersDataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE! - in com.gorest.crudtests.UsersDataDrivenTest
+createMultipleUsers(com.gorest.crudtests.UsersDataDrivenTest)  Time elapsed: 0.003 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.crudtests.UsersDataDrivenTest.createMultipleUsers(UsersDataDrivenTest.java:27)
+
